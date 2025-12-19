@@ -21,7 +21,6 @@ I build things out of curiosity, interest, and the fun of seeing ideas turn into
 
 ## 🌿 What I Enjoy
 - Exploring open source
-- Building small utilities
 - Reading manga 📖
 - Watching anime 🎬
 - Playing games 🎮
