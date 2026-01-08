@@ -40,7 +40,7 @@ Coffee. Code. Sleep. Repeat.
   <a href="https://youtube.com/@lunoshiro" rel="nofollow noopener noreferrer noindex noimageindex nosnippet noarchive">
     <img src="./assets/cached/ic_yt.svg" alt="YouTube"/>
   </a>
-  <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#105;&#110;&#103;&#103;&#97;&#114;&#101;&#118;&#97;&#110;&#107;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;" rel="nofollow noopener noreferrer noindex noimageindex nosnippet noarchive">
+  <a href="mailto:&#108;&#117;&#110;&#111;&#115;&#104;&#105;&#114;&#111;&#64;&#112;&#114;&#111;&#116;&#111;&#110;&#46;&#109;&#101;" rel="nofollow noopener noreferrer noindex noimageindex nosnippet noarchive">
     <img src="./assets/cached/ic_mail.svg" alt="Email"/>
   </a>
 </p>
