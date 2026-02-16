@@ -95,7 +95,7 @@ Coffee. Code. Sleep. Repeat.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rvnka&abbreviated=true&color=000000&style=for-the-badge" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=rvnka&base=6767&abbreviated=true&color=000000&style=for-the-badge" alt="Profile Views Counter"/>
 </p>
 
 ---
