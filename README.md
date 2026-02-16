@@ -4,21 +4,10 @@
 
 ---
 
-# Hi, I'm Rinn (@lunoshiro) 👋
+# Hi, I'm Rinn (@rvnka) 👋
 
 I'm a beginner developer and a student who enjoys learning new things, breaking stuff, fixing it again, and slowly getting better at coding.
 I build things out of curiosity, interest, and the fun of seeing ideas turn into something real.
-
-<details>
-<summary><strong>About my username...</strong></summary>
-
----
-
-lunoshiro is a blend of Luno and Shiro. Luno is a play on the Latin word Luna, meaning moon, and Shiro (白) is the Japanese word for white. I chose this name because it reminds me of white moonlight: calm, simple, and quiet. It is my way of keeping things peaceful and balanced in the digital world.
-
----
-
-</details>
 
 ### What I'm Learning
 - Shell
