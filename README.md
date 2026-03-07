@@ -38,8 +38,8 @@ into    open-source, manga, anime, games
 <br>
 
 <p align="center">
-<img src="./assets/cached/stats.svg" width="32%" alt="stats"/>
-<img src="./assets/cached/top-langs.svg" width="32%" alt="langs"/>
+<img src="./assets/generated/stats.svg" width="32%" alt="stats"/>
+<img src="./assets/generated/top-langs.svg" width="32%" alt="langs"/>
 <img src="./assets/cached/streak.svg" width="32%" alt="streak"/>
 </p>
 <p align="center">
