@@ -29,7 +29,6 @@ into    open-source, manga, anime, games
 <a href="https://youtube.com/@rvnka_yt">
   <img src="./assets/cached/ic_yt.svg" height="18" alt="youtube"/>
 </a>
-&nbsp;
 <a href="https://ko-fi.com/ringga">
   <img src="./assets/cached/ic_ko-fi.svg" height="18" alt="ko-fi"/>
 </a>
@@ -49,5 +48,5 @@ into    open-source, manga, anime, games
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rvnka&abbreviated=true&color=grey&style=flat" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=rvnka&abbreviated=true&style=flat" alt=""/>
 </p>
