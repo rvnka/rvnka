@@ -38,8 +38,9 @@ into    open-source, manga, anime, games
 <br>
 
 <p align="center">
-<img src="./assets/cached/stats.svg" width="48%" alt="stats"/>
-<img src="./assets/cached/top-langs.svg" width="48%" alt="langs"/>
+<img src="./assets/cached/stats.svg" width="32%" alt="stats"/>
+<img src="./assets/cached/top-langs.svg" width="32%" alt="langs"/>
+<img src="./assets/cached/streak.svg" width="32%" alt="streak"/>
 </p>
 <p align="center">
   <img src="./assets/generated/snake.svg" alt="GitHub contribution snake"/>
