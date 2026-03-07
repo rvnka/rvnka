@@ -44,6 +44,6 @@ into    open-source, manga, anime, games
 
 <br>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rvnka&abbreviated=true&color=grey&style=flat&label=" alt=""/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rvnka&abbreviated=true&color=grey&style=flat" alt=""/>
 </p>
