@@ -26,20 +26,28 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: assets/generated/snake.svg?palette=tokyonight
 
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
+          path: assets/generated/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&langs_count=20&exclude_repo=0,${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
+          path: assets/generated/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Caching Assets (Reduce Request)
         run: |
           declare -A assets=(
             ["ic_yt"]="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-            ["ic_mail"]="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             ["ic_ko-fi"]="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"
-            # ["ic_buy-me-a-coffee"]="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
-            # ["ic_paypal"]="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
-            ["tech-stack"]="https://skillicons.dev/icons?i=html,css,js,nodejs,react,nextjs,astro,mongodb,mysql,sqlite,firebase,git,github,bash,gcp,figma,ae,ps&theme=dark&perline=4"
-            ["stats"]="https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true"
-            ["top-langs"]="https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&langs_count=20&exclude_repo=0,${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true"
             ["streak"]="https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true"
-            ["trophy"]="https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=tokyonight&no-frame=true&margin-w=8"
-            ["typing"]="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=61CF5A&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Thanks+for+visiting!;Goodbye!;Have+a+nice+day!"
           )
           
           for asset in "${!assets[@]}"; do
@@ -85,4 +93,3 @@ jobs:
                 run_id: run.id
               });
             }
-            
