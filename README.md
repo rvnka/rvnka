@@ -1,105 +1,47 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="1000" alt="Banner">
+  <img src="./assets/banner.svg" width="900" alt="">
 </p>
 
----
+<br>
 
-# Hi, I'm Rinn (@rvnka) 👋
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="52%">
 
-I'm a beginner developer and a student who enjoys learning new things, breaking stuff, fixing it again, and slowly getting better at coding.
-I build things out of curiosity, interest, and the fun of seeing ideas turn into something real.
+**rinn** · @rvnka
 
-### What I'm Learning
-- Shell
-- HTML & CSS
-- JavaScript
-- Node.js
-- Python
+student & beginner dev
+building things out of curiosity, interest, and the fun of seeing ideas become real.
 
-### What I Enjoy
-- Exploring open-source
-- Reading manga
-- Watching anime
-- Playing games
-- Sleeping
+```
+os      android, linux
+device  Xiaomi 23122PCD1G
+        Xiaomi M2101K7AG
+stack   shell, html/css, js, node, python
+into    open-source, manga, anime, games
+```
 
-### Goals
-- Become a fullstack developer
-- Contribute more to open source
-- Build things that are useful or simply fun
+> coffee. code. sleep. repeat.
 
-### Motto
-Coffee. Code. Sleep. Repeat.
+<br>
 
-### Connect with Me
-<p align="center">
-  <a href="https://youtube.com/@lunoshiro" rel="nofollow noopener noreferrer noindex noimageindex nosnippet noarchive">
-    <img src="./assets/cached/ic_yt.svg" alt="YouTube"/>
-  </a>
-  <a href="mailto:&#108;&#117;&#110;&#111;&#115;&#104;&#105;&#114;&#111;&#64;&#112;&#114;&#111;&#116;&#111;&#110;&#46;&#109;&#101;" rel="nofollow noopener noreferrer noindex noimageindex nosnippet noarchive">
-    <img src="./assets/cached/ic_mail.svg" alt="Email"/>
-  </a>
-</p>
+<a href="https://youtube.com/@rvnka_yt"><img src="./assets/cached/ic_yt.svg" height="18" alt="youtube"/></a>
+&nbsp;
+<a href="https://ko-fi.com/ringga"><img src="./assets/cached/ic_ko-fi.svg" height="18" alt="ko-fi"/></a>
 
----
+</td>
+<td valign="top" width="4%"></td>
+<td valign="top" width="44%">
 
-<details>
-<summary><strong>More...</strong></summary>
+<img src="./assets/cached/stats.svg" width="100%" alt="stats"/>
+<img src="./assets/cached/top-langs.svg" width="100%" alt="langs"/>
 
-### Tech Stack
-<p align="center">
-  <img src="./assets/cached/tech-stack.svg" alt="Tech Stack Icons"/>
-</p>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-### GitHub Analytics
-
-<p align="center">
-  <img src="./assets/cached/stats.svg" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="./assets/cached/top-langs.svg" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="./assets/cached/streak.svg" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="./assets/generated/snake.svg" alt="GitHub contribution snake animation"/>
-</p>
-
-<p align="center">
-  <img src="./assets/cached/trophy.svg" alt="GitHub Trophies"/>
-</p>
-
----
-
-### Support Me
-<p align="center">
-  <a href="https://ko-fi.com/ringga" rel="nofollow noopener noreferrer noindex noimageindex nosnippet noarchive">
-    <img src="./assets/cached/ic_ko-fi.svg"/>
-  </a>
-  <!-- <a href="https://www.buymeacoffee.com/">
-    <img src="./assets/cached/ic_buy-me-a-coffee.svg"/>
-  </a>
-  <a href="https://paypal.me/">
-    <img src="./assets/cached/ic_paypal.svg"/>
-  </a> -->
-</p>
-
-</details>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rvnka&base=6767&abbreviated=true&color=000000&style=for-the-badge" alt="Profile Views Counter"/>
-</p>
-
----
-
-<p align="center">
-  <img src="./assets/cached/typing.svg" alt="Farewell Typing SVG"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rvnka&abbreviated=true&color=grey&style=flat&label=" alt=""/>
 </p>
