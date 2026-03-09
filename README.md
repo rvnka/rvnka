@@ -17,7 +17,7 @@ building things out of curiosity, interest, and the fun of seeing ideas become r
 os      android, linux
 device  Xiaomi 23122PCD1G
         Xiaomi M2101K7AG
-stack   shell, html/css, js, node, python
+stack   shell, html/css, js, ts, node, python
 into    open-source, manga, anime, games
 ```
 
