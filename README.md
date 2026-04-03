@@ -7,6 +7,7 @@
 <h3 align="center">rinn · @rvnka</h3>
 
 <p align="center">
+<b>he/him</b><br>
 student & beginner dev<br>
 building things out of curiosity, interest, and the fun of seeing ideas become real.
 </p>
