@@ -15,10 +15,9 @@ building things out of curiosity, interest, and the fun of seeing ideas become r
 <br>
 
 ```
-os      android, linux, windows
-device  HP 15-FB3744AX
-        Xiaomi 23122PCD1G
-        Xiaomi M2101K7AG
+device  HP Victus 15-FB3744AX (windows & linux)
+        Xiaomi 23122PCD1G (android)
+        Xiaomi M2101K7AG (android)
 stack   shell, html/css, js, ts, node, python
 into    open-source, manga, anime, games
 ```
