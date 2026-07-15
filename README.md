@@ -29,11 +29,19 @@ age        18 y.o.
 
 <br>
 
-<p align="center">
-<img src="./assets/generated/stats.svg" width="32%" alt="stats"/>
-<img src="./assets/generated/top-langs.svg" width="32%" alt="langs"/>
-<img src="./assets/cached/streak.svg" width="32%" alt="streak"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/generated/stats.svg" width="100%" alt="stats">
+    </td>
+    <td align="center">
+      <img src="./assets/generated/top-langs.svg" width="100%" alt="langs">
+    </td>
+    <td align="center">
+      <img src="./assets/cached/streak.svg" width="100%" alt="streak">
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="./assets/generated/snake.svg" height="32%" alt="GitHub contribution snake"/>
 </p>
