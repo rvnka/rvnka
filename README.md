@@ -31,10 +31,10 @@ age        18 y.o.
 
 <p align="center">
 <a href="https://youtube.com/@rvnka_yt">
-  <img src="./assets/cached/ic_yt.svg" height="18" alt="youtube"/>
+  <img src="./assets/cached/ic_yt.svg" height="32" alt="youtube"/>
 </a>
 <a href="https://ko-fi.com/ringga">
-  <img src="./assets/cached/ic_ko-fi.svg" height="18" alt="ko-fi"/>
+  <img src="./assets/cached/ic_ko-fi.svg" height="32" alt="ko-fi"/>
 </a>
 </p>
 
@@ -42,7 +42,7 @@ age        18 y.o.
 
 <p align="center">
 <img src="./assets/generated/stats.svg" width="32%" alt="stats"/>
-<img src="./assets/generated/top-langs.svg" width="23%" alt="langs"/>
+<img src="./assets/generated/top-langs.svg" width="32%" alt="langs"/>
 <img src="./assets/cached/streak.svg" width="32%" alt="streak"/>
 </p>
 <p align="center">
