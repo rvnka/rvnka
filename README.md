@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">ringga · @rvnka</h1>
+<h1 align="center">ringga (@rvnka)</h1>
 
 <p align="center">
 <b>he/him</b><br>
@@ -42,7 +42,7 @@ age        18 y.o.
 
 <p align="center">
 <img src="./assets/generated/stats.svg" width="32%" alt="stats"/>
-<img src="./assets/generated/top-langs.svg" width="32%" alt="langs"/>
+<img src="./assets/generated/top-langs.svg" width="23%" alt="langs"/>
 <img src="./assets/cached/streak.svg" width="32%" alt="streak"/>
 </p>
 <p align="center">
