@@ -8,19 +8,21 @@
 
 <p align="center">
 <b>he/him</b><br>
-student & beginner dev<br>
+student & developer & editor<br>
 building things out of curiosity, interest, and the fun of seeing ideas become real.
 </p>
 
 <br>
 
 ``` console
-alias   ringga, rvnka, revan, rinn
-device  HP Victus 15-FB3744AX (windows & linux)
-        Xiaomi 23122PCD1G (android)
-        Xiaomi M2101K7AG (android)
-stack   shell, html/css, js, ts, node, python
-into    open-source, manga, anime, games
+alias      ringga, rvnka, revan, rinn
+device     HP Victus 15-FB3744AX (windows & linux)
+           Xiaomi 23122PCD1G (android)
+           Xiaomi M2101K7AG (android)
+role       developer & editor & student
+stack      shell, html/css, js, ts, node, python
+interests  open-source, manga, anime, games
+age        18 y.o.
 ```
 
 > coffee. code. sleep. repeat.
