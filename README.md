@@ -41,24 +41,30 @@ age        18 y.o.
       <img src="./assets/cached/streak.svg" width="100%" alt="streak">
     </td>
   </tr>
+
+  <tr>
+    <td colspan="3" align="center">
+      <img src="./assets/generated/snake.svg" width="100%" alt="GitHub contribution snake">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center">
+      <a href="https://youtube.com/@rvnka_yt">
+        <img src="./assets/cached/ic_yt.svg" height="32" alt="youtube">
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://ko-fi.com/ringga">
+        <img src="./assets/cached/ic_ko-fi.svg" height="32" alt="ko-fi">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://komarev.com/ghpvc/?username=rvnka&abbreviated=true&style=flat" height="32" alt="GitHub viewcount">
+    </td>
+  </tr>
 </table>
-<p align="center">
-  <img src="./assets/generated/snake.svg" height="32%" alt="GitHub contribution snake"/>
-</p>
 
 <br>
-
-<p align="center">
-<a href="https://youtube.com/@rvnka_yt">
-  <img src="./assets/cached/ic_yt.svg" height="32%" alt="youtube"/>
-</a>
-<a href="https://ko-fi.com/ringga">
-  <img src="./assets/cached/ic_ko-fi.svg" height="32%" alt="ko-fi"/>
-</a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rvnka&abbreviated=true&style=flat" height="32%" alt="GitHub viewcount"/>
-</p>
