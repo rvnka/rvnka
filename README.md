@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center">ringga · @rvnka</h3>
+<h1 align="center">ringga · @rvnka</h1>
 
 <p align="center">
 <b>he/him</b><br>
