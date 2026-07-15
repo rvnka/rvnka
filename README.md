@@ -35,7 +35,7 @@ age        18 y.o.
 <img src="./assets/cached/streak.svg" width="32%" alt="streak"/>
 </p>
 <p align="center">
-  <img src="./assets/generated/snake.svg" alt="GitHub contribution snake"/>
+  <img src="./assets/generated/snake.svg" height="32%" alt="GitHub contribution snake"/>
 </p>
 
 <br>
@@ -52,5 +52,5 @@ age        18 y.o.
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rvnka&abbreviated=true&style=flat" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=rvnka&abbreviated=true&style=flat" height="32%" alt="GitHub viewcount"/>
 </p>
