@@ -14,7 +14,7 @@ building things out of curiosity, interest, and the fun of seeing ideas become r
 
 <br>
 
-```
+``` console
 alias   ringga, rvnka, revan, rinn
 device  HP Victus 15-FB3744AX (windows & linux)
         Xiaomi 23122PCD1G (android)
