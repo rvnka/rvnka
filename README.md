@@ -38,7 +38,7 @@ age        18 y.o.
       <img src="./assets/generated/top-langs.svg" width="100%" alt="langs">
     </td>
     <td align="center">
-      <img src="./assets/cached/streak.svg" width="100%" alt="streak">
+      <img src="./assets/generated/streak.svg" width="100%" alt="streak">
     </td>
   </tr>
 
