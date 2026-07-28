@@ -50,7 +50,7 @@ age        18 y.o.
 
   <tr>
     <td colspan="3" align="center">
-      <a href="https://youtube.com/@rvnka_yt">
+      <a href="https://youtube.com/@rvnka_labs">
         <img src="./assets/cached/ic_yt.svg" height="32" alt="youtube">
       </a>
       &nbsp;&nbsp;
