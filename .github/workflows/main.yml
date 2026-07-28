@@ -47,6 +47,13 @@ jobs:
           path: assets/generated/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ env.USERNAME }}&theme=tokyonight&hide_border=true
+          path: assets/generated/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Cache external badge SVGs
         env:
           ASSETS_CACHED: assets/cached
@@ -55,8 +62,6 @@ jobs:
             -o "$ASSETS_CACHED/ic_yt.svg"
           curl -sfL "https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" \
             -o "$ASSETS_CACHED/ic_ko-fi.svg"
-          curl -sfL "https://streak-stats.demolab.com?user=$USERNAME&theme=tokyonight&hide_border=true" \
-            -o "$ASSETS_CACHED/streak.svg"
 
       - name: Commit and push generated assets
         run: |
